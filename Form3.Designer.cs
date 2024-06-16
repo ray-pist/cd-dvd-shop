@@ -32,6 +32,8 @@
             this.lbCart = new System.Windows.Forms.ListBox();
             this.label1 = new System.Windows.Forms.Label();
             this.lblTotal = new System.Windows.Forms.Label();
+            this.btnRemove = new System.Windows.Forms.Button();
+            this.btnPay = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label2
@@ -73,12 +75,34 @@
             this.lblTotal.TabIndex = 4;
             this.lblTotal.Text = "lblTotal";
             // 
+            // btnRemove
+            // 
+            this.btnRemove.Location = new System.Drawing.Point(537, 304);
+            this.btnRemove.Name = "btnRemove";
+            this.btnRemove.Size = new System.Drawing.Size(108, 29);
+            this.btnRemove.TabIndex = 5;
+            this.btnRemove.Text = "UKLONI";
+            this.btnRemove.UseVisualStyleBackColor = true;
+            this.btnRemove.Click += new System.EventHandler(this.btnRemove_Click);
+            // 
+            // btnPay
+            // 
+            this.btnPay.Location = new System.Drawing.Point(629, 390);
+            this.btnPay.Name = "btnPay";
+            this.btnPay.Size = new System.Drawing.Size(119, 33);
+            this.btnPay.TabIndex = 6;
+            this.btnPay.Text = "PLAĆANJE";
+            this.btnPay.UseVisualStyleBackColor = true;
+            this.btnPay.Click += new System.EventHandler(this.btnPay_Click);
+            // 
             // Form3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.MistyRose;
+            this.BackColor = System.Drawing.Color.IndianRed;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnPay);
+            this.Controls.Add(this.btnRemove);
             this.Controls.Add(this.lblTotal);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.lbCart);
@@ -96,5 +120,7 @@
         private System.Windows.Forms.ListBox lbCart;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label lblTotal;
+        private System.Windows.Forms.Button btnRemove;
+        private System.Windows.Forms.Button btnPay;
     }
 }
