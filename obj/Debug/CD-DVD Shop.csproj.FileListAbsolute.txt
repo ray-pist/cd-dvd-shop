@@ -1,0 +1,12 @@
+C:\Users\lukaz\OneDrive\Desktop\pjero\CD-DVD Shop\bin\Debug\CD-DVD Shop.exe.config
+C:\Users\lukaz\OneDrive\Desktop\pjero\CD-DVD Shop\bin\Debug\CD-DVD Shop.exe
+C:\Users\lukaz\OneDrive\Desktop\pjero\CD-DVD Shop\bin\Debug\CD-DVD Shop.pdb
+C:\Users\lukaz\OneDrive\Desktop\pjero\CD-DVD Shop\obj\Debug\CD-DVD Shop.csproj.AssemblyReference.cache
+C:\Users\lukaz\OneDrive\Desktop\pjero\CD-DVD Shop\obj\Debug\CD_DVD_Shop.Form1.resources
+C:\Users\lukaz\OneDrive\Desktop\pjero\CD-DVD Shop\obj\Debug\CD_DVD_Shop.Form3.resources
+C:\Users\lukaz\OneDrive\Desktop\pjero\CD-DVD Shop\obj\Debug\CD_DVD_Shop.Properties.Resources.resources
+C:\Users\lukaz\OneDrive\Desktop\pjero\CD-DVD Shop\obj\Debug\CD-DVD Shop.csproj.GenerateResource.cache
+C:\Users\lukaz\OneDrive\Desktop\pjero\CD-DVD Shop\obj\Debug\CD-DVD Shop.csproj.CoreCompileInputs.cache
+C:\Users\lukaz\OneDrive\Desktop\pjero\CD-DVD Shop\obj\Debug\CD-DVD Shop.exe
+C:\Users\lukaz\OneDrive\Desktop\pjero\CD-DVD Shop\obj\Debug\CD-DVD Shop.pdb
+C:\Users\lukaz\OneDrive\Desktop\pjero\CD-DVD Shop\obj\Debug\CD_DVD_Shop.Form2.resources
